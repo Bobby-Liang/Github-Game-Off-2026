@@ -13,8 +13,6 @@ Saved/
 # Build files
 *.pdb
 *.obj
-*.dll
-*.exe
 
 # OS files
 .DS_Store
